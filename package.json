@@ -1,0 +1,10 @@
+{
+  "name": "auto-parts-system",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Автомашины сэлбэгийн худалдааны систем",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": { "node": ">=20" }
+}
